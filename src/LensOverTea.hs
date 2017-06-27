@@ -1,4 +1,5 @@
 -- Needed to get constraints in type synonyms
+-- Resource: https://artyom.me/lens-over-tea-1
 {-# LANGUAGE RankNTypes    #-}
 {-# LANGUAGE TupleSections #-}
 
